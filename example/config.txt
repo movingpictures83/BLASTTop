@@ -1,0 +1,2 @@
+Prefix plugins/BLASTTop/example/
+Plugin BLASTTop inputfile testData_blast.txt outputfile TopHitBLAST.txt
